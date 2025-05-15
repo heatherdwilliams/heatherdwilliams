@@ -19,7 +19,8 @@ Analyzed cash prices for top 100 prescription drugs across providers (GoodRx, Wa
 Explored insurance membership growth across counties and channels to identify high-performance areas. Developed a filterable Tableau dashboard for quick insight into growth trends, retention gaps, and regional opportunities.
 
 **Outcome:** Helped leadership focus outreach on top 3 performing counties for improved resource allocation.
-**Note** Best viewed on desktop version and not web.
+
+***Important: Map and slicer features may not render correctly in the web version of Excel. Download and open in Excel Desktop for full functionality.***
 
 ---
 ### 📫 Contact
