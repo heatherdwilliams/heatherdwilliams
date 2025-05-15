@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @heatherdwilliams
-- 👀 I’m interested in learning more about Python, SQL and R programming in regards to data analytics
-- 🌱 I’m currently a data analyst for a healthcare company
-- 💞️ I’m looking to collaborate anything to do with healthcare, I have a strong background in pharamcy, but I would love to learn about data aspects of healthcare
-- 📫 How to reach me https://www.linkedin.com/in/heather--williams or email heather.d.williams16@gmail.com
+# 📊 Heather Williams – Data & Analytics Portfolio
 
-<!---
-heatherdwilliams/heatherdwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome! I’m Heather Williams, a Pharmacy Benefit Analyst with a strong background in pharmacy claims, formulary management, RFP strategy, and data-driven cost analysis. This portfolio highlights key projects that demonstrate my ability to turn complex healthcare data into actionable insights.
+
+---
+
+## 💊 The Price is Right – Rx Cash Price Analysis  
+**Tools:** Excel | [View Excel Dashboard](#)
+
+Analyzed cash prices for top 100 prescription drugs across providers (GoodRx, Walmart $4 List, Amazon Pharmacy, CostPlus). Built a dynamic Excel dashboard to compare local vs national pricing, highlighting affordability gaps and pricing inconsistencies.
+
+**Outcome:** Found up to 300% price variance across pharmacies; tool used to educate internal teams on pricing transparency issues.
+
+---
+
+## 🏥 Sales Performance by Region – Membership Growth Dashboard  
+**Tools:** Excel | [View Tableau Report](#)
+
+Explored insurance membership growth across counties and channels to identify high-performance areas. Developed a filterable Tableau dashboard for quick insight into growth trends, retention gaps, and regional opportunities.
+
+**Outcome:** Helped leadership focus outreach on top 3 performing counties for improved resource allocation.
+
+---
+### 📫 Contact
+- 📍 Wyoming, PA  
+- ✉️ heather.d.williams16@gmail.com  
+- [[LinkedIn](#)](https://www.linkedin.com/in/heather--williams/)
+
