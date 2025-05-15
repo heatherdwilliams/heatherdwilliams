@@ -5,7 +5,7 @@ Welcome! I’m Heather Williams, a Pharmacy Benefit Analyst with a strong backgr
 ---
 
 ## 💊 The Price is Right – Rx Cash Price Analysis  
-**Tools:** Excel | [View Excel Dashboard](#)
+**Tools:** Excel | [View Excel Dashboard](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fheatherdwilliams%2Fheatherdwilliams%2Frefs%2Fheads%2Fmain%2FThe%2520Price%2520is%2520Right-Rx%2520edition.xlsx&wdOrigin=BROWSELINK)]
 
 Analyzed cash prices for top 100 prescription drugs across providers (GoodRx, Walmart $4 List, Amazon Pharmacy, CostPlus). Built a dynamic Excel dashboard to compare local vs national pricing, highlighting affordability gaps and pricing inconsistencies.
 
@@ -24,5 +24,5 @@ Explored insurance membership growth across counties and channels to identify hi
 ### 📫 Contact
 - 📍 Wyoming, PA  
 - ✉️ heather.d.williams16@gmail.com  
-- [[LinkedIn](#)](https://www.linkedin.com/in/heather--williams/)
+- [[LinkedIn](https://www.linkedin.com/in/heather--williams/)]
 
