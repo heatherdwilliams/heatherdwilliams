@@ -16,7 +16,7 @@ Analyzed cash prices for top 100 prescription drugs across providers (GoodRx, Wa
 ## 🏥 Sales Performance by Region – Membership Growth Dashboard  
 **Tools:** Excel | [View Excel Dashboard](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fheatherdwilliams%2Fheatherdwilliams%2Frefs%2Fheads%2Fmain%2FInsurance%2520Sales%2520Performance.xlsx&wdOrigin=BROWSELINK)
 
-Explored insurance membership growth across counties and channels to identify high-performance areas. Developed a filterable Tableau dashboard for quick insight into growth trends, retention gaps, and regional opportunities.
+Explored insurance membership growth across counties and channels to identify high-performance areas. Developed an Excel dashboard for quick insight into growth trends, retention gaps, and regional opportunities.
 
 **Outcome:** Helped leadership focus outreach on top 3 performing counties for improved resource allocation.
 
@@ -26,5 +26,5 @@ Explored insurance membership growth across counties and channels to identify hi
 ### 📫 Contact
 - 📍 Wyoming, PA  
 - ✉️ heather.d.williams16@gmail.com  
-- [[LinkedIn](https://www.linkedin.com/in/heather--williams/)]
+- [LinkedIn](https://www.linkedin.com/in/heather--williams/)
 
